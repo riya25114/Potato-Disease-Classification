@@ -1,6 +1,7 @@
 # Potato-Disease-Classification
 <br>
 This project focuses on building a machine learning model to classify potato plant health based on leaf images. The model can detect and differentiate between three classes:
+<br>
 1) Early Blight
 2) Late Blight
 3) Healthy
